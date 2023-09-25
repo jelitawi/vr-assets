@@ -1,0 +1,555 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        14.664597511291504,
+        35.912818908691406,
+        12.66180419921875
+      ],
+      "min": [
+        -13.891959190368652,
+        -5.031546592712402,
+        -10.850696563720703
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 786384,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.999944806098938,
+        0.9999721050262451,
+        0.9999284148216248
+      ],
+      "min": [
+        -0.9998860955238342,
+        -0.9999401569366455,
+        -0.9999873638153076
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        2.8514039516448975,
+        24.43522834777832
+      ],
+      "min": [
+        -0.9985660910606384,
+        -2.1291191577911377
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 524256,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        1.0,
+        0.9975713491439819
+      ],
+      "min": [
+        1.0,
+        0.2500059902667999
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1048512,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        2.8514039516448975,
+        24.43522834777832
+      ],
+      "min": [
+        -0.9985660910606384,
+        -2.1291191577911377
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 303165,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1572768,
+      "componentType": 5126,
+      "count": 38331,
+      "max": [
+        14.191797256469727,
+        35.9151725769043,
+        13.267047882080078
+      ],
+      "min": [
+        -14.142553329467773,
+        -2.310499429702759,
+        -11.560815811157227
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2032740,
+      "componentType": 5126,
+      "count": 38331,
+      "max": [
+        0.9995111227035522,
+        0.9999855160713196,
+        0.9999199509620667
+      ],
+      "min": [
+        -0.9998148679733276,
+        -0.9997928142547607,
+        -0.9997677206993103
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1572768,
+      "componentType": 5126,
+      "count": 38331,
+      "max": [
+        2.684737205505371,
+        19.784141540527344
+      ],
+      "min": [
+        -0.9985660910606384,
+        -1.510279893875122
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1879416,
+      "componentType": 5126,
+      "count": 38331,
+      "max": [
+        1.0,
+        0.9974762201309204
+      ],
+      "min": [
+        1.0,
+        0.25000667572021484
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2186064,
+      "componentType": 5126,
+      "count": 38331,
+      "max": [
+        2.684737205505371,
+        19.784141540527344
+      ],
+      "min": [
+        -0.9985660910606384,
+        -1.510279893875122
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1212660,
+      "componentType": 5125,
+      "count": 137229,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2492712,
+      "componentType": 5126,
+      "count": 30220,
+      "max": [
+        14.479238510131836,
+        36.155372619628906,
+        13.735453605651855
+      ],
+      "min": [
+        -14.664407730102539,
+        0.5257260799407959,
+        -12.166560173034668
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2855352,
+      "componentType": 5126,
+      "count": 30220,
+      "max": [
+        0.9999988675117493,
+        0.9999701380729675,
+        0.9998891949653625
+      ],
+      "min": [
+        -0.9999964237213135,
+        -0.9873616099357605,
+        -0.9998295307159424
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2492712,
+      "componentType": 5126,
+      "count": 30220,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2734472,
+      "componentType": 5126,
+      "count": 30220,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2976232,
+      "componentType": 5126,
+      "count": 30220,
+      "max": [
+        1.0,
+        0.996536135673523
+      ],
+      "min": [
+        1.0,
+        0.13400478661060333
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3217992,
+      "componentType": 5126,
+      "count": 30220,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1761576,
+      "componentType": 5125,
+      "count": 45330,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Ashim Shakya (https://sketchfab.com/ashimshakya)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/bodhi-tree-943594369dc84239bc140e6e7d07a005",
+      "title": "Bodhi Tree"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 1942896,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3459752,
+      "byteOffset": 1942896,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3217992,
+      "byteOffset": 5402648,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 8620640,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsRequired": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "extensionsUsed": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "images": [
+    {
+      "uri": "textures/Bark_Mat_diffuse.jpeg"
+    },
+    {
+      "uri": "textures/Bark_Mat_specularGlossiness.png"
+    },
+    {
+      "uri": "textures/Bark_Mat_occlusion.png"
+    },
+    {
+      "uri": "textures/Bodhi_front_2_Mat_diffuse.png"
+    }
+  ],
+  "materials": [
+    {
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "diffuseTexture": {
+            "index": 0
+          },
+          "glossinessFactor": 1.0,
+          "specularFactor": [
+            0.14712122136896308,
+            0.14712122136896308,
+            0.14712122136896308
+          ],
+          "specularGlossinessTexture": {
+            "index": 1,
+            "texCoord": 1
+          }
+        }
+      },
+      "name": "Bark_Mat",
+      "occlusionTexture": {
+        "index": 2,
+        "texCoord": 1
+      }
+    },
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "diffuseTexture": {
+            "index": 3
+          },
+          "glossinessFactor": 0.6286363543886127,
+          "specularFactor": [
+            0.03,
+            0.03,
+            0.03
+          ]
+        }
+      },
+      "name": "Bodhi_front_2_Mat"
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Bodhi Tree_Bark_Mat_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3,
+            "TEXCOORD_2": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Bodhi Tree_Bark_Mat_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6,
+            "TEXCOORD_0": 8,
+            "TEXCOORD_1": 9,
+            "TEXCOORD_2": 10
+          },
+          "indices": 11,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Bodhi Tree_Bodhi_front_2_Mat_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TEXCOORD_0": 14,
+            "TEXCOORD_1": 15,
+            "TEXCOORD_2": 16,
+            "TEXCOORD_3": 17
+          },
+          "indices": 18,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "9c65abce5f49430cb3d00c7322e30fa7.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5,
+        6
+      ],
+      "name": "Bodhi Tree"
+    },
+    {
+      "mesh": 0,
+      "name": "Bodhi Tree_Bark_Mat_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Bodhi Tree_Bark_Mat_0"
+    },
+    {
+      "mesh": 2,
+      "name": "Bodhi Tree_Bodhi_front_2_Mat_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    }
+  ]
+}
