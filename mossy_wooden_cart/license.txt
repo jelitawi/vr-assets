@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mossy wooden cart
+* source:	https://sketchfab.com/3d-models/mossy-wooden-cart-03c7117f045e473abfe5de90c5a8319d
+* author:	Cinnamine3D (https://sketchfab.com/LordCinn)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mossy wooden cart" (https://sketchfab.com/3d-models/mossy-wooden-cart-03c7117f045e473abfe5de90c5a8319d) by Cinnamine3D (https://sketchfab.com/LordCinn) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
